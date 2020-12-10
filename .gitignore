@@ -1,0 +1,5 @@
+node_modules
+service-*
+package/
+*.tgz
+package-lock.json
